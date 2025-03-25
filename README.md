@@ -1,4 +1,4 @@
-# ⏱ Berkeley Algorithm Implementation in Java  
+# ⏱ Berkeley Algorithm in Java  
 
 This repository contains an implementation of the **Berkeley Algorithm** using **Java**. The Berkeley Algorithm is a well-known clock synchronization algorithm used in distributed systems to synchronize clocks of multiple devices or nodes in a network.  
 
